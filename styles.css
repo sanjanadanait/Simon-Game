@@ -24,7 +24,22 @@ a {
   font-family: 'Press Start 2P', cursive;
   font-size: 1rem;
   line-height: 2rem;
-  margin:  4%;
+  margin:  3%;
+  color: #FEF2BF;
+}
+
+footer {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 0.8rem;
+  line-height: 2rem;
+  color: #FEF2BF;
+}
+
+.footer {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 0.8rem;
+  line-height: 2rem;
+  margin: 0% !important;
   color: #FEF2BF;
 }
 
@@ -46,14 +61,13 @@ a {
   display: block;
   width: 50%;
   margin: auto;
-
 }
 
 .btn {
-  margin: 25px;
+  margin: 20px;
   display: inline-block;
-  height: 200px;
-  width: 200px;
+  height: 180px;
+  width: 180px;
   border: 10px solid black;
   border-radius: 20%;
 }
